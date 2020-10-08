@@ -5,7 +5,7 @@
 
 ## :clipboard: About the project
 
-A web application that helps you understand blood donation by showing which blood types are compatible with each other click [here](https://dribbble.com/)
+A web application that helps you understand blood donation by showing which blood types are compatible with each other click [here](https://jhonywalker-pixel.github.io/blood-types/)
 
 ## :computer: Languages used
 
