@@ -3,14 +3,29 @@
     <img src="./imagens/icon-repo.png" alt="Blood Donation" width="300px" />
 </h1>
 
-## :clipboard: About the project
+## 💻 Repository Summary
 
-A web application that helps you understand blood donation by showing which blood types are compatible with each other click [here](https://jhonywalker-pixel.github.io/blood-types/)
+A web application that helps you understand blood donation by showing which blood types are compatible.
 
-## :computer: Used language
+## 🛠 Technologies
 
-The cool thing is that this project only used CSS and Javascript
+#### Project was built using **HTML** and **CSS** but what is it?
 
-## :book: License
+- **HTML** - Or HyperText Markup Language, which means: "Hypertext Markup Language" is a markup language used in the construction of the "skeleton" of web pages.
 
-This project is under the MIT license. See the [LICENSE](LICENSE.md) for more details.
+- **CSS** - Or Cascading Style Sheets is a mechanism for adding style to a web document.
+
+## 🔨 Local Installation
+
+You will need [GIT](https://git-scm.com/) in the most up-to-date version installed on your computer to continue.
+
+```bash
+$ cd blood-types
+$ code .
+```
+
+And now to run our game locally just open the `index.html` file and open it with the **[Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)** extension
+
+## 📖 License
+
+This project is under license from MIT. See the [LICENSE](LICENSE.md) file for more details.
