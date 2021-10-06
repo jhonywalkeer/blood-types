@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    <img src="./imagens/icon-repo.png" alt="Blood Donation" width="300px" />
+    <img src="./assets/images/icon-repo.png" alt="Blood Donation" width="300px" />
 </h1>
 
 ## 💻 Repository Summary
