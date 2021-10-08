@@ -20,6 +20,8 @@ A web application that helps you understand blood donation by showing which bloo
 You will need [GIT](https://git-scm.com/) in the most up-to-date version installed on your computer to continue.
 
 ```bash
+https://github.com/jhonywalkeer/blood-types.git
+
 $ cd blood-types
 $ code .
 ```
